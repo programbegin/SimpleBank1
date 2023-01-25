@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/lib/pq v1.10.7
-	github.com/programbegin/simplebank v0.0.0-20230125061023-a61175ca2913
+	github.com/programbegin/simplebank v0.0.0-20230125093727-f790f8e20e6a
 	github.com/stretchr/testify v1.8.1
 )
 
