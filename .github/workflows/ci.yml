@@ -24,4 +24,4 @@ jobs:
       uses: actions/setup-go@v2
 
     - name: Test
-      run:  go test -v -cover github.com/programbegin/SimpleBank1/
+      run:  go test -v  github.com/programbegin/SimpleBank1/
