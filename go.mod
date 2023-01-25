@@ -1,9 +1,10 @@
-module github.com/programbegin/simplebank
+module github.com/programbegin/SimpleBank1
 
-go 1.17
+go 1.19
 
 require (
 	github.com/lib/pq v1.10.7
+	github.com/programbegin/simplebank v0.0.0-20230125061023-a61175ca2913
 	github.com/stretchr/testify v1.8.1
 )
 
